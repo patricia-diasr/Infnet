@@ -1,0 +1,14 @@
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\bin\Debug\net8.0\Teste de Performance 1.exe
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\bin\Debug\net8.0\Teste de Performance 1.deps.json
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\bin\Debug\net8.0\Teste de Performance 1.runtimeconfig.json
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\bin\Debug\net8.0\Teste de Performance 1.dll
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\bin\Debug\net8.0\Teste de Performance 1.pdb
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\obj\Debug\net8.0\Teste de Performance 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\obj\Debug\net8.0\Teste de Performance 1.AssemblyInfoInputs.cache
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\obj\Debug\net8.0\Teste de Performance 1.AssemblyInfo.cs
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\obj\Debug\net8.0\Teste de Performance 1.csproj.CoreCompileInputs.cache
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\obj\Debug\net8.0\Teste de Performance 1.dll
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\obj\Debug\net8.0\refint\Teste de Performance 1.dll
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\obj\Debug\net8.0\Teste de Performance 1.pdb
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\obj\Debug\net8.0\Teste de Performance 1.genruntimeconfig.cache
+C:\Users\patid\source\repos\Teste de Performance 1\Teste de Performance 1\obj\Debug\net8.0\ref\Teste de Performance 1.dll

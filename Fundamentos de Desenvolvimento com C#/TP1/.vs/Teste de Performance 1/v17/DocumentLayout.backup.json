@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patid\\source\\repos\\Teste de Performance 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCE9A82-5550-42A9-AAD2-887282809778}|UsoDeVariaveis\\UsoDeVariaveis.csproj|c:\\users\\patid\\source\\repos\\teste de performance 1\\usodevariaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCE9A82-5550-42A9-AAD2-887282809778}|UsoDeVariaveis\\UsoDeVariaveis.csproj|solutionrelative:usodevariaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EEA010-45A5-4902-9277-CA0961B27031}|Variaveis\\Variaveis.csproj|c:\\users\\patid\\source\\repos\\teste de performance 1\\variaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EEA010-45A5-4902-9277-CA0961B27031}|Variaveis\\Variaveis.csproj|solutionrelative:variaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DC6D61-22E0-4CDC-AEEA-34F228D09AE6}|Teste de Performance 1\\HelloWorld.csproj|c:\\users\\patid\\source\\repos\\teste de performance 1\\teste de performance 1\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83DC6D61-22E0-4CDC-AEEA-34F228D09AE6}|Teste de Performance 1\\HelloWorld.csproj|solutionrelative:teste de performance 1\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DC6D61-22E0-4CDC-AEEA-34F228D09AE6}|Teste de Performance 1\\HelloWorld.csproj|c:\\users\\patid\\source\\repos\\teste de performance 1\\teste de performance 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DC6D61-22E0-4CDC-AEEA-34F228D09AE6}|Teste de Performance 1\\HelloWorld.csproj|solutionrelative:teste de performance 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Teste de Performance 1\\UsoDeVariaveis\\Program.cs",
+              "RelativeDocumentMoniker": "UsoDeVariaveis\\Program.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Teste de Performance 1\\UsoDeVariaveis\\Program.cs",
+              "RelativeToolTip": "UsoDeVariaveis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:19:07.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloWorld.csproj",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Teste de Performance 1\\Teste de Performance 1\\HelloWorld.csproj",
+              "RelativeDocumentMoniker": "Teste de Performance 1\\HelloWorld.csproj",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Teste de Performance 1\\Teste de Performance 1\\HelloWorld.csproj",
+              "RelativeToolTip": "Teste de Performance 1\\HelloWorld.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T20:10:15.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Teste de Performance 1\\Variaveis\\Program.cs",
+              "RelativeDocumentMoniker": "Variaveis\\Program.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Teste de Performance 1\\Variaveis\\Program.cs",
+              "RelativeToolTip": "Variaveis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:10:07.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Teste de Performance 1\\Teste de Performance 1\\Program.cs",
+              "RelativeDocumentMoniker": "Teste de Performance 1\\Program.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Teste de Performance 1\\Teste de Performance 1\\Program.cs",
+              "RelativeToolTip": "Teste de Performance 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:53:18.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

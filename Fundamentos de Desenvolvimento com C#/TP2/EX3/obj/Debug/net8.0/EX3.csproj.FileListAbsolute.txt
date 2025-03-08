@@ -1,0 +1,14 @@
+C:\Users\patid\source\repos\TP2\EX3\bin\Debug\net8.0\EX3.exe
+C:\Users\patid\source\repos\TP2\EX3\bin\Debug\net8.0\EX3.deps.json
+C:\Users\patid\source\repos\TP2\EX3\bin\Debug\net8.0\EX3.runtimeconfig.json
+C:\Users\patid\source\repos\TP2\EX3\bin\Debug\net8.0\EX3.dll
+C:\Users\patid\source\repos\TP2\EX3\bin\Debug\net8.0\EX3.pdb
+C:\Users\patid\source\repos\TP2\EX3\obj\Debug\net8.0\EX3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patid\source\repos\TP2\EX3\obj\Debug\net8.0\EX3.AssemblyInfoInputs.cache
+C:\Users\patid\source\repos\TP2\EX3\obj\Debug\net8.0\EX3.AssemblyInfo.cs
+C:\Users\patid\source\repos\TP2\EX3\obj\Debug\net8.0\EX3.csproj.CoreCompileInputs.cache
+C:\Users\patid\source\repos\TP2\EX3\obj\Debug\net8.0\EX3.dll
+C:\Users\patid\source\repos\TP2\EX3\obj\Debug\net8.0\refint\EX3.dll
+C:\Users\patid\source\repos\TP2\EX3\obj\Debug\net8.0\EX3.pdb
+C:\Users\patid\source\repos\TP2\EX3\obj\Debug\net8.0\EX3.genruntimeconfig.cache
+C:\Users\patid\source\repos\TP2\EX3\obj\Debug\net8.0\ref\EX3.dll

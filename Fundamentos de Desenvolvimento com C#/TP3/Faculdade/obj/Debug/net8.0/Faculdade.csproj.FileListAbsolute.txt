@@ -1,0 +1,14 @@
+C:\Users\patid\source\repos\TP3\Faculdade\bin\Debug\net8.0\Faculdade.exe
+C:\Users\patid\source\repos\TP3\Faculdade\bin\Debug\net8.0\Faculdade.deps.json
+C:\Users\patid\source\repos\TP3\Faculdade\bin\Debug\net8.0\Faculdade.runtimeconfig.json
+C:\Users\patid\source\repos\TP3\Faculdade\bin\Debug\net8.0\Faculdade.dll
+C:\Users\patid\source\repos\TP3\Faculdade\bin\Debug\net8.0\Faculdade.pdb
+C:\Users\patid\source\repos\TP3\Faculdade\obj\Debug\net8.0\Faculdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patid\source\repos\TP3\Faculdade\obj\Debug\net8.0\Faculdade.AssemblyInfoInputs.cache
+C:\Users\patid\source\repos\TP3\Faculdade\obj\Debug\net8.0\Faculdade.AssemblyInfo.cs
+C:\Users\patid\source\repos\TP3\Faculdade\obj\Debug\net8.0\Faculdade.csproj.CoreCompileInputs.cache
+C:\Users\patid\source\repos\TP3\Faculdade\obj\Debug\net8.0\Faculdade.dll
+C:\Users\patid\source\repos\TP3\Faculdade\obj\Debug\net8.0\refint\Faculdade.dll
+C:\Users\patid\source\repos\TP3\Faculdade\obj\Debug\net8.0\Faculdade.pdb
+C:\Users\patid\source\repos\TP3\Faculdade\obj\Debug\net8.0\Faculdade.genruntimeconfig.cache
+C:\Users\patid\source\repos\TP3\Faculdade\obj\Debug\net8.0\ref\Faculdade.dll

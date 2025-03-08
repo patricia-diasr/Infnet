@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patid\\source\\repos\\TP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78CC037A-EDFF-4BCA-BD96-73678ABF6C98}|FormasGeometricas\\FormasGeometricas.csproj|c:\\users\\patid\\source\\repos\\tp3\\formasgeometricas\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CC037A-EDFF-4BCA-BD96-73678ABF6C98}|FormasGeometricas\\FormasGeometricas.csproj|solutionrelative:formasgeometricas\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CC037A-EDFF-4BCA-BD96-73678ABF6C98}|FormasGeometricas\\FormasGeometricas.csproj|c:\\users\\patid\\source\\repos\\tp3\\formasgeometricas\\esfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CC037A-EDFF-4BCA-BD96-73678ABF6C98}|FormasGeometricas\\FormasGeometricas.csproj|solutionrelative:formasgeometricas\\esfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF84C8-B6AE-4727-A7EC-3C6ACE320044}|Show\\Show.csproj|c:\\users\\patid\\source\\repos\\tp3\\show\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF84C8-B6AE-4727-A7EC-3C6ACE320044}|Show\\Show.csproj|solutionrelative:show\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CC037A-EDFF-4BCA-BD96-73678ABF6C98}|FormasGeometricas\\FormasGeometricas.csproj|c:\\users\\patid\\source\\repos\\tp3\\formasgeometricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CC037A-EDFF-4BCA-BD96-73678ABF6C98}|FormasGeometricas\\FormasGeometricas.csproj|solutionrelative:formasgeometricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6982C02-CB4A-486A-BA2C-588153E5D39E}|Faculdade\\Faculdade.csproj|c:\\users\\patid\\source\\repos\\tp3\\faculdade\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6982C02-CB4A-486A-BA2C-588153E5D39E}|Faculdade\\Faculdade.csproj|solutionrelative:faculdade\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\TP3\\FormasGeometricas\\Program.cs",
+              "RelativeDocumentMoniker": "FormasGeometricas\\Program.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\TP3\\FormasGeometricas\\Program.cs",
+              "RelativeToolTip": "FormasGeometricas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:48:40.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Esfera.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\TP3\\FormasGeometricas\\Esfera.cs",
+              "RelativeDocumentMoniker": "FormasGeometricas\\Esfera.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\TP3\\FormasGeometricas\\Esfera.cs",
+              "RelativeToolTip": "FormasGeometricas\\Esfera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:47:13.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\TP3\\Faculdade\\Matricula.cs",
+              "RelativeDocumentMoniker": "Faculdade\\Matricula.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\TP3\\Faculdade\\Matricula.cs",
+              "RelativeToolTip": "Faculdade\\Matricula.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:44:47.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ingresso.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\TP3\\Show\\Ingresso.cs",
+              "RelativeDocumentMoniker": "Show\\Ingresso.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\TP3\\Show\\Ingresso.cs",
+              "RelativeToolTip": "Show\\Ingresso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:44:42.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\TP3\\FormasGeometricas\\Circulo.cs",
+              "RelativeDocumentMoniker": "FormasGeometricas\\Circulo.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\TP3\\FormasGeometricas\\Circulo.cs",
+              "RelativeToolTip": "FormasGeometricas\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:44:13.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

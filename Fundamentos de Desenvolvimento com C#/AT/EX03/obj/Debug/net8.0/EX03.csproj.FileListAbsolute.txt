@@ -1,0 +1,14 @@
+C:\Users\patid\source\repos\AT\EX03\obj\Debug\net8.0\EX03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patid\source\repos\AT\EX03\obj\Debug\net8.0\EX03.AssemblyInfoInputs.cache
+C:\Users\patid\source\repos\AT\EX03\obj\Debug\net8.0\EX03.AssemblyInfo.cs
+C:\Users\patid\source\repos\AT\EX03\obj\Debug\net8.0\EX03.csproj.CoreCompileInputs.cache
+C:\Users\patid\source\repos\AT\EX03\bin\Debug\net8.0\EX03.exe
+C:\Users\patid\source\repos\AT\EX03\bin\Debug\net8.0\EX03.deps.json
+C:\Users\patid\source\repos\AT\EX03\bin\Debug\net8.0\EX03.runtimeconfig.json
+C:\Users\patid\source\repos\AT\EX03\bin\Debug\net8.0\EX03.dll
+C:\Users\patid\source\repos\AT\EX03\bin\Debug\net8.0\EX03.pdb
+C:\Users\patid\source\repos\AT\EX03\obj\Debug\net8.0\EX03.dll
+C:\Users\patid\source\repos\AT\EX03\obj\Debug\net8.0\refint\EX03.dll
+C:\Users\patid\source\repos\AT\EX03\obj\Debug\net8.0\EX03.pdb
+C:\Users\patid\source\repos\AT\EX03\obj\Debug\net8.0\EX03.genruntimeconfig.cache
+C:\Users\patid\source\repos\AT\EX03\obj\Debug\net8.0\ref\EX03.dll

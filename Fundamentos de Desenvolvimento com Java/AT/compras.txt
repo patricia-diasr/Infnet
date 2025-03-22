@@ -1,0 +1,6 @@
+Produto: l, Quantidade: 1, Preço unitário: R$ 2.0
+Produto: p, Quantidade: 2, Preço unitário: R$ 3.0
+Produto: m, Quantidade: 6, Preço unitário: R$ 9.0
+Produto: 6, Quantidade: 6, Preço unitário: R$ 6.0
+Produto: 6, Quantidade: 6, Preço unitário: R$ 6.0
+Produto: 6, Quantidade: 6, Preço unitário: R$ 6.0

@@ -1,0 +1,39 @@
+﻿@page
+@model IndexModel
+
+@{
+    ViewData["Title"] = "Cadastrar Evento";
+}
+
+<div class="container">
+    <h2>Cadastrar Novo Evento</h2>
+
+    <form method="post">
+        <div>
+            <label for="Title">Título:</label>
+            <input type="text" id="Title" name="Title" required />
+        </div>
+
+        <div>
+            <label for="Date">Data:</label>
+            <input type="datetime-local" id="Date" name="Date" required />
+        </div>
+
+        <div>
+            <label for="Location">Local:</label>
+            <input type="text" id="Location" name="Location" required />
+        </div>
+
+        <button type="submit">Cadastrar Evento</button>
+    </form>
+
+    @if (Model.EventoCriado)
+    {
+        <div class="event-success">
+            <h3>Evento Criado com Sucesso!</h3>
+            <p><strong>Título:</strong> @Model.Evento.Titulo</p>
+            <p><strong>Data:</strong> @Model.Evento.Data.ToString("dd/MM/yyyy HH:mm")</p>
+            <p><strong>Local:</strong> @Model.Evento.Local</p>
+        </div>
+    }
+</div>

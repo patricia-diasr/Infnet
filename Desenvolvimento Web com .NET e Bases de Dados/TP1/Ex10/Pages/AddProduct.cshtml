@@ -1,0 +1,92 @@
+﻿@page
+@model AddProductModel
+@{
+    ViewData["Title"] = "Adicionar Produto";
+}
+
+<style>
+    .main-section {
+        max-width: 800px;
+        margin: 2rem auto;
+        padding: 2rem;
+        background-color: #f9f9f9;
+        border-radius: 12px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+        .main-section h1 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: #2c3e50;
+        }
+
+    form {
+        padding: 20px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+    }
+
+    input {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    button {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        padding: 10px 16px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+    .result {
+        background-color: #e9f7ef;
+        padding: 15px;
+        border-left: 5px solid #28a745;
+        border-radius: 4px;
+    }
+</style>
+
+<section class="main-section">
+    <h1>@ViewData["Title"]</h1>
+
+    <form method="post">
+        <div>
+            <label asp-for="NomeProduto">Nome:</label>
+            <input asp-for="NomeProduto" />
+        </div>
+        <div>
+            <label asp-for="PrecoProduto">Preço:</label>
+            <input asp-for="PrecoProduto" type="number" step="0.01" />
+        </div>
+        <button type="submit">Cadastrar</button>
+    </form>
+
+    @if (Model.Enviado)
+    {
+        <div class="result">
+            <h3>Produto Cadastrado:</h3>
+            <p><strong>Nome:</strong> @Model.NomeProduto</p>
+            <p><strong>Preço:</strong> R$ @Model.PrecoProduto</p>
+        </div>
+    }
+
+</section>

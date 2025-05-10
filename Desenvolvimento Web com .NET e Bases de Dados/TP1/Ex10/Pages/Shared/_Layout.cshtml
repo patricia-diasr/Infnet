@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Loja Virtual</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #eef2f3;
+        }
+
+        nav {
+            background-color: #34495e;
+            padding: 1rem;
+        }
+
+            nav a {
+                color: white;
+                text-decoration: none;
+                margin-right: 1rem;
+                font-weight: bold;
+            }
+
+                nav a:hover {
+                    text-decoration: underline;
+                }
+
+        .container {
+            padding: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/">Início</a>
+        <a href="/AddProduct">Cadastre Produtos</a>
+        <a href="#">Sobre</a>
+    </nav>
+    <div class="container">
+        @RenderBody()
+    </div>
+</body>
+</html>

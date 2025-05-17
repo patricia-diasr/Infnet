@@ -1,0 +1,40 @@
+﻿@page
+@model Turismo.Pages.SaveNoteCityDetailModel
+@{
+}
+
+<div class="city-form-container">
+    <div class="form-header">
+        <i class="fas fa-save city-icon"></i>
+        <h2>Salvar Nota da Cidade</h2>
+        <p class="form-subtitle">Preencha os campos abaixo para salvar a nota desta cidade</p>
+    </div>
+
+    <form method="post">
+        <div class="form-group">
+            <label for="NomeCidade">Nome da Cidade:</label>
+            <input asp-for="Entrada.NomeCidade" class="input-field" />
+            <span asp-validation-for="Entrada.NomeCidade" class="validation-error"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Descricao">Descrição da Cidade:</label>
+            <textarea asp-for="Entrada.Descricao" rows="6" class="textarea-field"></textarea>
+            <span asp-validation-for="Entrada.Descricao" class="validation-error"></span>
+        </div>
+
+        <button type="submit" class="submit-btn">Salvar Nota</button>
+    </form>
+
+    @if (!string.IsNullOrEmpty(Model.LinkDownload))
+    {
+        <p class="success-msg">
+            Nota da cidade salva com sucesso!
+            <a href="@Model.LinkDownload" target="_blank" class="download-link">Download do arquivo</a>
+        </p>
+    }
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

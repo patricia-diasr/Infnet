@@ -1,0 +1,14 @@
+﻿@page "{cityName}"
+@model CityDetailsModel
+
+<div class="city-details-container">
+    <div class="details-header">
+        <i class="fas fa-city city-icon"></i>
+        <h2>Detalhes da Cidade</h2>
+        <p class="details-subtitle">Informações sobre a cidade selecionada</p>
+    </div>
+
+    <div class="city-info-box">
+        <p><strong>Você está vendo detalhes de:</strong> @Model.NomeCidade</p>
+    </div>
+</div>

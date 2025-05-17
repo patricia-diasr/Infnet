@@ -1,0 +1,377 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+    --accent-color: #e74c3c;
+    --light-color: #ecf0f1;
+    --dark-color: #2c3e50;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+header {
+    background-color: var(--primary-color);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    padding: 15px 0;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    margin-right: 10px;
+}
+
+.menu {
+    background-color: var(--primary-color);
+    padding: 10px 0;
+}
+
+    .menu ul {
+        display: flex;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .menu li {
+        margin: 0 5px;
+    }
+
+    .menu a {
+        color: white;
+        text-decoration: none;
+        padding: 10px 15px;
+        border-radius: 4px;
+        transition: all 0.3s ease;
+        display: block;
+        font-weight: 500;
+    }
+
+        .menu a:hover {
+            background-color: var(--secondary-color);
+            transform: translateY(-2px);
+        }
+
+main {
+    flex: 1;
+    padding: 30px;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.city-form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+}
+
+.form-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.city-icon {
+    font-size: 48px;
+    color: #3498db;
+    margin-bottom: 15px;
+}
+
+.form-header h2 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.form-subtitle {
+    color: #7f8c8d;
+    font-size: 16px;
+}
+
+.city-form {
+    margin-top: 20px;
+}
+
+.form-group {
+    margin-bottom: 25px;
+}
+
+    .form-group label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: 500;
+        color: #34495e;
+    }
+
+.input-group {
+    display: flex;
+    position: relative;
+}
+
+.input-group-icon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #7f8c8d;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px 12px 12px 35px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+    .form-control:focus {
+        border-color: #3498db;
+        box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.25);
+        outline: none;
+    }
+
+.validation-message {
+    display: block;
+    color: #e74c3c;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.form-actions {
+    margin-top: 30px;
+}
+
+.btn-submit {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .btn-submit i {
+        margin-right: 8px;
+    }
+
+    .btn-submit:hover {
+        background-color: #2980b9;
+        transform: translateY(-2px);
+    }
+
+    .btn-submit:active {
+        transform: translateY(0);
+    }
+
+.success-message {
+    background-color: #dff0d8;
+    color: #3c763d;
+    padding: 15px;
+    border-radius: 4px;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+    .success-message i {
+        font-size: 24px;
+        margin-right: 10px;
+    }
+
+    .success-message p {
+        margin: 0;
+    }
+
+.city-list {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+    .city-list li {
+        margin-bottom: 15px;
+    }
+
+.city-link {
+    display: block;
+    padding: 12px 16px;
+    background-color: var(--light-color);
+    border-radius: 4px;
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 500;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+    .city-link i {
+        margin-right: 8px;
+        color: var(--secondary-color);
+    }
+
+    .city-link:hover {
+        background-color: var(--secondary-color);
+        color: white;
+        transform: translateY(-2px);
+    }
+
+        .city-link:hover i {
+            color: white;
+        }
+
+.no-notes-msg {
+    color: var(--gray-color, #666);
+    margin-top: 10px;
+}
+
+.note-content {
+    background-color: #f7f7f7;
+    padding: 15px;
+    border-radius: 5px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: Consolas, monospace;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+    margin-top: 10px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.input-field, .textarea-field {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+}
+
+.submit-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+    .submit-btn:hover {
+        background-color: #0056b3;
+    }
+
+.validation-error {
+    color: red;
+    font-size: 0.9rem;
+}
+
+.success-msg {
+    margin-top: 20px;
+    color: green;
+}
+
+.download-link {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+    .download-link:hover {
+        color: #0056b3;
+    }
+
+.city-details-container {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.details-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.city-icon {
+    font-size: 2rem;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.details-subtitle {
+    color: #555;
+    font-size: 1rem;
+}
+
+.city-info-box {
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1.1rem;
+}
+
+.index-container {
+    margin: 30px auto;
+    padding: 30px;
+    max-width: 700px;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.welcome-header {
+    margin-bottom: 25px;
+}
+
+.welcome-icon {
+    font-size: 2.5rem;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.welcome-subtitle {
+    font-size: 1.1rem;
+    color: #666;
+}
+

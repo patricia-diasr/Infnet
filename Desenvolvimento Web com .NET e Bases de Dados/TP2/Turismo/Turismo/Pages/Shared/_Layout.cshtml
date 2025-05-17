@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Turismo</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Turismo.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo-container">
+                <div class="logo">
+                    <i class="fas fa-globe-americas"></i> Turismo
+                </div>
+            </div>
+            <nav class="menu">
+                <ul>
+                    <li><a asp-page="/Index"><i class="fas fa-home"></i> Início</a></li>
+                    <li><a asp-page="/CreateCity"><i class="fas fa-city"></i> Cadastrar Cidade</a></li>
+                    <li><a asp-page="/CreateCountry"><i class="fas fa-flag"></i> Cadastrar País</a></li>
+                    <li><a asp-page="/CreateMultipleCountries"><i class="fas fa-globe"></i> Múltiplos Países</a></li>
+                    <li><a asp-page="/ListCities"><i class="fas fa-list"></i> Lista de Cidades</a></li>
+                    <li><a asp-page="/ListNotes"><i class="fas fa-sticky-note"></i> Notas de Viagem</a></li>
+                    <li><a asp-page="/SaveNoteCityDetail"><i class="fas fa-edit"></i> Nova Nota</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

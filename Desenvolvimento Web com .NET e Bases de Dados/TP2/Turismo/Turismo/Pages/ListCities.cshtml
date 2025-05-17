@@ -1,0 +1,22 @@
+﻿@page
+@model Turismo.Pages.ListCitiesModel
+@{
+}
+<div class="city-form-container">
+    <div class="form-header">
+        <i class="fas fa-city city-icon"></i>
+        <h2>Lista de Cidades</h2>
+        <p class="form-subtitle">Clique no nome de uma cidade para ver os detalhes</p>
+    </div>
+
+    <ul class="city-list">
+        @foreach (var cidade in Model.Cidades)
+        {
+            <li>
+                <a asp-page="/CityDetails" asp-route-cityName="@cidade" class="city-link">
+                    <i class="fas fa-map-marker-alt"></i> @cidade
+                </a>
+            </li>
+        }
+    </ul>
+</div>

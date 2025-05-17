@@ -1,0 +1,38 @@
+﻿@page
+@model Turismo.Pages.ListNotesModel
+@{
+}
+
+<div class="city-form-container">
+    <div class="form-header">
+        <i class="fas fa-sticky-note city-icon"></i>
+        <h2>Notas Salvas</h2>
+        <p class="form-subtitle">Clique em uma nota para visualizar seu conteúdo</p>
+    </div>
+
+    @if (Model.Arquivos.Count == 0)
+    {
+        <p class="no-notes-msg">Nenhuma nota salva.</p>
+    }
+    else
+    {
+        <ul class="city-list">
+            @foreach (var arquivo in Model.Arquivos)
+            {
+                <li>
+                    <a asp-page="./ListNotes" asp-route-nomeArquivo="@arquivo" class="city-link">
+                        <i class="fas fa-file-alt"></i> @arquivo
+                    </a>
+                </li>
+            }
+        </ul>
+    }
+
+    @if (!string.IsNullOrEmpty(Model.ConteudoArquivo))
+    {
+        <hr />
+        <h3>Conteúdo do Arquivo: <strong>@Model.ArquivoSelecionado</strong></h3>
+        <pre class="note-content">@Model.ConteudoArquivo</pre>
+    }
+</div>
+

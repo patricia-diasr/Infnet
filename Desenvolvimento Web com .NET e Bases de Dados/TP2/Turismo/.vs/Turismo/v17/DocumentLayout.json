@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patid\\source\\repos\\Turismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\listnotes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\listnotes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\createcountry.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\createcountry.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\createcountry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\createcountry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\listnotes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\listnotes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\citydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\citydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\savenotecitydetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\savenotecitydetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\listcities.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\listcities.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\createmultiplecountries.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\createmultiplecountries.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\createcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\createcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\createcity.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\createcity.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\savenotecitydetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\savenotecitydetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\listcities.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\listcities.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\citydetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\citydetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|c:\\users\\patid\\source\\repos\\turismo\\turismo\\pages\\createmultiplecountries.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C48EF0F-130F-414B-9FA1-5E653B74C28D}|Turismo\\Turismo.csproj|solutionrelative:turismo\\pages\\createmultiplecountries.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListNotes.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\ListNotes.cshtml",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\ListNotes.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\ListNotes.cshtml",
+              "RelativeToolTip": "Turismo\\Pages\\ListNotes.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T16:49:41.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateMultipleCountries.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CreateMultipleCountries.cshtml",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\CreateMultipleCountries.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CreateMultipleCountries.cshtml",
+              "RelativeToolTip": "Turismo\\Pages\\CreateMultipleCountries.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T16:34:19.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Turismo\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T16:15:27.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateCountry.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CreateCountry.cshtml.cs",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\CreateCountry.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CreateCountry.cshtml.cs",
+              "RelativeToolTip": "Turismo\\Pages\\CreateCountry.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA+wA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:30:00.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Turismo\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Turismo\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAcwHgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-17T16:46:39.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCountry.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CreateCountry.cshtml",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\CreateCountry.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CreateCountry.cshtml",
+              "RelativeToolTip": "Turismo\\Pages\\CreateCountry.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T16:29:31.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateCity.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CreateCity.cshtml.cs",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\CreateCity.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CreateCity.cshtml.cs",
+              "RelativeToolTip": "Turismo\\Pages\\CreateCity.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:17:28.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveNoteCityDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\SaveNoteCityDetail.cshtml",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\SaveNoteCityDetail.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\SaveNoteCityDetail.cshtml",
+              "RelativeToolTip": "Turismo\\Pages\\SaveNoteCityDetail.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T16:41:00.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListNotes.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\ListNotes.cshtml.cs",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\ListNotes.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\ListNotes.cshtml.cs",
+              "RelativeToolTip": "Turismo\\Pages\\ListNotes.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:49:58.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Turismo\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T16:54:58.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CityDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CityDetails.cshtml",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\CityDetails.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CityDetails.cshtml",
+              "RelativeToolTip": "Turismo\\Pages\\CityDetails.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T16:37:12.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListCities.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\ListCities.cshtml",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\ListCities.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\ListCities.cshtml",
+              "RelativeToolTip": "Turismo\\Pages\\ListCities.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T16:38:48.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCity.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CreateCity.cshtml",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\CreateCity.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CreateCity.cshtml",
+              "RelativeToolTip": "Turismo\\Pages\\CreateCity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T16:16:17.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Turismo\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T16:56:17.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaveNoteCityDetail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\SaveNoteCityDetail.cshtml.cs",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\SaveNoteCityDetail.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\SaveNoteCityDetail.cshtml.cs",
+              "RelativeToolTip": "Turismo\\Pages\\SaveNoteCityDetail.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:41:23.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListCities.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\ListCities.cshtml.cs",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\ListCities.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\ListCities.cshtml.cs",
+              "RelativeToolTip": "Turismo\\Pages\\ListCities.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:39:06.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CityDetails.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CityDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\CityDetails.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CityDetails.cshtml.cs",
+              "RelativeToolTip": "Turismo\\Pages\\CityDetails.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:37:24.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateMultipleCountries.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CreateMultipleCountries.cshtml.cs",
+              "RelativeDocumentMoniker": "Turismo\\Pages\\CreateMultipleCountries.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\Turismo\\Turismo\\Pages\\CreateMultipleCountries.cshtml.cs",
+              "RelativeToolTip": "Turismo\\Pages\\CreateMultipleCountries.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:34:35.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+﻿@page
+@model CreateCityModel
+@{
+}
+
+<div class="city-form-container">
+    <div class="form-header">
+        <i class="fas fa-city city-icon"></i>
+        <h2>Cadastrar Cidade Turística</h2>
+        <p class="form-subtitle">Adicione uma nova cidade ao catálogo de destinos turísticos</p>
+    </div>
+
+    <form method="post" class="city-form">
+        <div class="form-group">
+            <label asp-for="Entrada.NomeCidade">Nome da Cidade</label>
+            <div class="input-group">
+                <span class="input-group-icon"><i class="fas fa-map-marker-alt"></i></span>
+                <input asp-for="Entrada.NomeCidade" class="form-control" placeholder="Ex: Paris, Rio de Janeiro, Tóquio" />
+            </div>
+            <span asp-validation-for="Entrada.NomeCidade" class="validation-message"></span>
+        </div>
+
+        <div class="form-actions">
+            <button type="submit" class="btn-submit">
+                <i class="fas fa-save"></i> Cadastrar Cidade
+            </button>
+        </div>
+    </form>
+
+@* EX 1: *@
+@* 
+@if (!string.IsNullOrEmpty(Model.NomeCidade))
+{
+    <p>Cidade cadastrada: @Model.NomeCidade</p>
+}
+*@
+
+@if (!string.IsNullOrEmpty(Model.CidadeRecebida))
+{
+    <div class="success-message">
+        <i class="fas fa-check-circle"></i>
+        <p>Cidade <strong>@Model.CidadeRecebida</strong> cadastrada com sucesso!</p>
+    </div>
+}
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

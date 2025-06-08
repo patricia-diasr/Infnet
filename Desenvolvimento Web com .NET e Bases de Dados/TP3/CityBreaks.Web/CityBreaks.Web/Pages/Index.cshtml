@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+
+<section class="city-properties">
+    <h1 class="page-title">Propriedades por Cidades</h1>
+
+    @foreach (var city in Model.Cities)
+    {
+        <article class="city-block">
+            <h2 class="city-title">@city.Name <span class="city-country">(@city.Country.CountryName)</span></h2>
+            <ul class="property-list">
+                @foreach (var property in city.Properties)
+                {
+                    <li class="property-item">
+                        <span class="property-name">@property.Name</span> —
+                        <span class="property-price">Preço por noite: @property.PricePerNight.ToString("C")</span>
+                    </li>
+                }
+            </ul>
+        </article>
+    }
+</section>

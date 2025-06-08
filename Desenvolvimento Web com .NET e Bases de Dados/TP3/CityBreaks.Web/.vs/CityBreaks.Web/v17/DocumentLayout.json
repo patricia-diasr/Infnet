@@ -1,0 +1,654 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\filterproperties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\filterproperties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\editproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\editproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\createproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\createproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\citydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\citydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\cities.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\cities.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\cities.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\cities.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\citydetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\citydetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\filterproperties.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\filterproperties.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\services\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\services\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\models\\viewmodels\\editpropertyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\models\\viewmodels\\editpropertyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\models\\viewmodels\\createpropertyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\models\\viewmodels\\createpropertyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\editproperty.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\editproperty.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\createproperty.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\createproperty.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\data\\configurations\\propertyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\data\\configurations\\propertyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\services\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\services\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\data\\configurations\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\data\\configurations\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\data\\configurations\\countryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\data\\configurations\\countryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\citybreaks.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\citybreaks.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\migrations\\citybreakscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\migrations\\citybreakscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\migrations\\20250607162521_applyfluentapiconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\migrations\\20250607162521_applyfluentapiconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\migrations\\20250607160926_addpropertyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\migrations\\20250607160926_addpropertyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\migrations\\20250607160607_addcityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\migrations\\20250607160607_addcityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\migrations\\20250607155843_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\migrations\\20250607155843_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\migrations\\20250607174158_adddeletedattoproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\migrations\\20250607174158_adddeletedattoproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\migrations\\20250607170719_seedmoreinitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\migrations\\20250607170719_seedmoreinitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|c:\\users\\patid\\source\\repos\\citybreaks.web\\citybreaks.web\\migrations\\20250607165200_seedinitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5558A8F5-6066-4A03-AA07-6A9B65BC5FF2}|CityBreaks.Web\\CityBreaks.Web.csproj|solutionrelative:citybreaks.web\\migrations\\20250607165200_seedinitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CityBreaks.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAUwBABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-08T14:39:39.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T17:00:28.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilterProperties.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\FilterProperties.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\FilterProperties.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\FilterProperties.cshtml",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\FilterProperties.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T17:44:27.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cities.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\Cities.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\Cities.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\Cities.cshtml",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\Cities.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T17:21:44.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cities.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\Cities.cshtml.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\Cities.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\Cities.cshtml.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\Cities.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:22:01.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateProperty.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\CreateProperty.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\CreateProperty.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\CreateProperty.cshtml",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\CreateProperty.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T17:23:05.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditProperty.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\EditProperty.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\EditProperty.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\EditProperty.cshtml",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\EditProperty.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T17:27:18.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T17:21:22.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\CityDetails.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\CityDetails.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\CityDetails.cshtml",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\CityDetails.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T17:15:49.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FilterProperties.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\FilterProperties.cshtml.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\FilterProperties.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\FilterProperties.cshtml.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\FilterProperties.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:44:42.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CityDetails.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\CityDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\CityDetails.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\CityDetails.cshtml.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\CityDetails.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:17:26.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditPropertyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Models\\ViewModels\\EditPropertyViewModel.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Models\\ViewModels\\EditPropertyViewModel.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Models\\ViewModels\\EditPropertyViewModel.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Models\\ViewModels\\EditPropertyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:25:34.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Models\\Property.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Models\\Property.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Models\\Property.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:03:16.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Services\\CityService.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Services\\CityService.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Services\\CityService.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Services\\CityService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:58:23.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Services\\IPropertyService.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Services\\IPropertyService.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Services\\IPropertyService.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Services\\IPropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:37:09.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Services\\PropertyService.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Services\\PropertyService.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Services\\PropertyService.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Services\\PropertyService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:33:31.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Services\\ICityService.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Services\\ICityService.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Services\\ICityService.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Services\\ICityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:57:38.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreatePropertyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Models\\ViewModels\\CreatePropertyViewModel.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Models\\ViewModels\\CreatePropertyViewModel.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Models\\ViewModels\\CreatePropertyViewModel.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Models\\ViewModels\\CreatePropertyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:16:13.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditProperty.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\EditProperty.cshtml.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\EditProperty.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\EditProperty.cshtml.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\EditProperty.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:27:37.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateProperty.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\CreateProperty.cshtml.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\CreateProperty.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\CreateProperty.cshtml.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\CreateProperty.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:23:21.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T14:06:38.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T14:06:40.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T14:06:41.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Models\\Country.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:58:43.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PropertyConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Data\\Configurations\\PropertyConfiguration.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Data\\Configurations\\PropertyConfiguration.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Data\\Configurations\\PropertyConfiguration.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Data\\Configurations\\PropertyConfiguration.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwBsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:51:16.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Program.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Program.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:59:42.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250607174158_AddDeletedAtToProperty.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607174158_AddDeletedAtToProperty.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Migrations\\20250607174158_AddDeletedAtToProperty.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607174158_AddDeletedAtToProperty.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Migrations\\20250607174158_AddDeletedAtToProperty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:41:58.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250607170719_SeedMoreInitialData.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607170719_SeedMoreInitialData.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Migrations\\20250607170719_SeedMoreInitialData.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607170719_SeedMoreInitialData.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Migrations\\20250607170719_SeedMoreInitialData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:07:20.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CityBreaks.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\CityBreaks.Web.csproj",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\CityBreaks.Web.csproj",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\CityBreaks.Web.csproj",
+              "RelativeToolTip": "CityBreaks.Web\\CityBreaks.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T16:57:02.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250607165200_SeedInitialData.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607165200_SeedInitialData.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Migrations\\20250607165200_SeedInitialData.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607165200_SeedInitialData.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Migrations\\20250607165200_SeedInitialData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:52:00.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:00:33.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Data\\Configurations\\CityConfiguration.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Data\\Configurations\\CityConfiguration.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Data\\Configurations\\CityConfiguration.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Data\\Configurations\\CityConfiguration.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:50:50.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CountryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Data\\Configurations\\CountryConfiguration.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Data\\Configurations\\CountryConfiguration.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Data\\Configurations\\CountryConfiguration.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Data\\Configurations\\CountryConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:51:12.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CityBreaksContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\CityBreaksContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Migrations\\CityBreaksContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\CityBreaksContextModelSnapshot.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Migrations\\CityBreaksContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:48:14.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250607162521_ApplyFluentApiConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607162521_ApplyFluentApiConfigurations.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Migrations\\20250607162521_ApplyFluentApiConfigurations.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607162521_ApplyFluentApiConfigurations.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Migrations\\20250607162521_ApplyFluentApiConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:48:12.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250607160926_AddPropertyEntity.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607160926_AddPropertyEntity.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Migrations\\20250607160926_AddPropertyEntity.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607160926_AddPropertyEntity.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Migrations\\20250607160926_AddPropertyEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:48:11.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250607155843_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607155843_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Migrations\\20250607155843_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607155843_InitialCreate.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Migrations\\20250607155843_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:48:08.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250607160607_AddCityEntity.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607160607_AddCityEntity.cs",
+              "RelativeDocumentMoniker": "CityBreaks.Web\\Migrations\\20250607160607_AddCityEntity.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\CityBreaks.Web\\CityBreaks.Web\\Migrations\\20250607160607_AddCityEntity.cs",
+              "RelativeToolTip": "CityBreaks.Web\\Migrations\\20250607160607_AddCityEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:48:06.846Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

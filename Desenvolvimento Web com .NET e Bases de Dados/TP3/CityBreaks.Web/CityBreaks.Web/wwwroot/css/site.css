@@ -1,0 +1,313 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+    a:hover {
+        color: #0056b3;
+    }
+
+header {
+    background-color: #fff;
+    border-bottom: 1px solid #eaeaea;
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.menu ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li a {
+    padding: 0.5rem 0.75rem;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+    .menu li a:hover {
+        background-color: #f0f0f0;
+    }
+
+.main-container {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.page-title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #222;
+}
+
+.city-block {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+}
+
+.city-title {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+.city-country {
+    font-size: 1rem;
+    color: #777;
+}
+
+.property-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.property-item {
+    padding: 0.5rem 0;
+    border-bottom: 1px dashed #e0e0e0;
+}
+
+    .property-item:last-child {
+        border-bottom: none;
+    }
+
+.property-name {
+    font-weight: 500;
+    color: #222;
+}
+
+.property-price {
+    font-weight: 400;
+    color: #555;
+    margin-left: 0.5rem;
+    font-style: italic;
+}
+
+/* Página de cidades */
+.cities-page {
+    margin-bottom: 2rem;
+}
+
+/* Lista de cidades */
+.city-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.city-item {
+    padding: 0.5rem 0;
+    border-bottom: 1px dashed #e0e0e0;
+}
+
+    .city-item:last-child {
+        border-bottom: none;
+    }
+
+.city-link {
+    font-weight: 500;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+    .city-link:hover {
+        text-decoration: underline;
+    }
+
+.city-country {
+    font-style: italic;
+    color: #555;
+    margin-left: 0.5rem;
+}
+
+.empty-message {
+    font-style: italic;
+    color: #777;
+}
+
+.city-details-page {
+    margin-bottom: 2rem;
+}
+
+.section-title {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.property-info {
+    margin-bottom: 0.5rem;
+}
+
+.property-actions {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.action-link {
+    color: #007BFF;
+    text-decoration: none;
+    font-size: 0.95rem;
+}
+
+    .action-link:hover {
+        text-decoration: underline;
+    }
+
+.delete-form {
+    display: inline;
+}
+
+.delete-button {
+    background-color: transparent;
+    border: 1px solid #dc3545;
+    color: #dc3545;
+    padding: 0.3rem 0.6rem;
+    font-size: 0.9rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+    .delete-button:hover {
+        background-color: #dc3545;
+        color: #fff;
+    }
+
+.edit-property-page,
+.create-property-page {
+    max-width: 600px;
+    margin: 0 auto 2rem auto;
+}
+
+.property-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-label {
+    font-weight: 500;
+    margin-bottom: 0.3rem;
+    color: #333;
+}
+
+.form-input, .form-select {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+    .form-input:focus, .form-select:focus {
+        border-color: #007BFF;
+        box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.2);
+        outline: none;
+    }
+
+.form-error {
+    color: #dc3545;
+    font-size: 0.875rem;
+    margin-top: 0.3rem;
+}
+
+.primary-button {
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    .primary-button:hover {
+        background-color: #0056b3;
+    }
+
+.form-actions {
+    margin-top: 1rem;
+}
+
+.filter-properties-page {
+    max-width: 800px;
+    margin: 0 auto 2rem auto;
+}
+
+.results-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    font-size: 0.95rem;
+}
+
+    .results-table th,
+    .results-table td {
+        border: 1px solid #ddd;
+        padding: 0.6rem 0.8rem;
+        text-align: left;
+    }
+
+    .results-table th {
+        background-color: #f5f5f5;
+        font-weight: 600;
+        color: #333;
+    }
+
+    .results-table tr:nth-child(even) {
+        background-color: #fafafa;
+    }
+
+    .results-table tr:hover {
+        background-color: #f0f0f0;
+    }
+
+
+@media (max-width: 768px) {
+    .menu ul {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+}

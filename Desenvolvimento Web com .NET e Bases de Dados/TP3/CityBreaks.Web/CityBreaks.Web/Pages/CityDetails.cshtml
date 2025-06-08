@@ -1,0 +1,35 @@
+﻿@page
+@model CityBreaks.Web.Pages.CityDetailsModel
+
+<section class="city-details-page">
+    <h1 class="page-title">
+        Detalhes da Cidade: @Model.City.Name <span class="city-country">(@Model.City.Country.CountryName)</span>
+    </h1>
+
+    <h2 class="section-title">Propriedades:</h2>
+
+    @if (Model.City.Properties.Any())
+    {
+        <ul class="property-list">
+            @foreach (var property in Model.City.Properties)
+            {
+                <li class="property-item">
+                    <div class="property-info">
+                        <span class="property-name">@property.Name</span> —
+                        <span class="property-price">Preço por noite: @property.PricePerNight.ToString("C")</span>
+                    </div>
+                    <div class="property-actions">
+                        <a class="action-link" asp-page="/EditProperty" asp-route-id="@property.Id">Editar</a>
+                        <form method="post" asp-page-handler="Delete" asp-route-id="@property.Id" class="delete-form">
+                            <button type="submit" class="delete-button" onclick="return confirm('Tem certeza que deseja deletar esta propriedade?');">Deletar</button>
+                        </form>
+                    </div>
+                </li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p class="empty-message">Não há propriedades cadastradas para esta cidade.</p>
+    }
+</section>

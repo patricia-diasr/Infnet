@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CityBreaks.Web.props" />
+</Project>

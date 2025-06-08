@@ -1,0 +1,35 @@
+﻿@page
+@model CityBreaks.Web.Pages.CreatePropertyModel
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+<section class="create-property-page">
+    <h1 class="page-title">Cadastrar Nova Propriedade</h1>
+
+    <form method="post" class="property-form">
+        <div class="form-group">
+            <label asp-for="PropertyInput.Name" class="form-label">Nome</label><br />
+            <input asp-for="PropertyInput.Name" class="form-input" />
+            <span asp-validation-for="PropertyInput.Name" class="form-error"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="PropertyInput.PricePerNight" class="form-label">Diária</label><br />
+            <input asp-for="PropertyInput.PricePerNight" type="number" step="0.01" class="form-input" />
+            <span asp-validation-for="PropertyInput.PricePerNight" class="form-error"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="citySelect" class="form-label">Cidade</label><br />
+            <select asp-for="PropertyInput.CityId" asp-items="Model.CitiesSelectList" id="citySelect" class="form-select"></select>
+            <span asp-validation-for="PropertyInput.CityId" class="form-error"></span>
+        </div>
+
+        <div class="form-actions">
+            <button type="submit" class="primary-button">Cadastrar</button>
+        </div>
+    </form>
+</section>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

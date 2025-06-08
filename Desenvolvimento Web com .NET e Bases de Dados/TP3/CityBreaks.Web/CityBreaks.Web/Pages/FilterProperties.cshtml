@@ -1,0 +1,65 @@
+﻿@page
+@model CityBreaks.Web.Pages.FilterPropertiesModel
+
+<section class="filter-properties-page">
+    <h1 class="page-title">Filtrar Propriedades</h1>
+
+    <form method="get" class="filter-form">
+        <div class="form-group">
+            <label class="form-label">Preço mínimo:</label>
+            <input type="number" step="0.01" name="MinPrice" value="@Model.MinPrice" class="form-input" />
+        </div>
+
+        <div class="form-group">
+            <label class="form-label">Preço máximo:</label>
+            <input type="number" step="0.01" name="MaxPrice" value="@Model.MaxPrice" class="form-input" />
+        </div>
+
+        <div class="form-group">
+            <label class="form-label">Nome da cidade:</label>
+            <input type="text" name="CityName" value="@Model.CityName" class="form-input" />
+        </div>
+
+        <div class="form-group">
+            <label class="form-label">Nome da propriedade:</label>
+            <input type="text" name="PropertyName" value="@Model.PropertyName" class="form-input" />
+        </div>
+
+        <div class="form-actions">
+            <button type="submit" class="primary-button">Buscar</button>
+        </div>
+    </form>
+
+    <hr />
+
+    <h2 class="section-title">Resultados</h2>
+
+    @if (Model.Properties == null || Model.Properties.Count == 0)
+    {
+        <p class="empty-message">Nenhuma propriedade encontrada com os filtros aplicados.</p>
+    }
+    else
+    {
+        <table class="results-table">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Preço por noite</th>
+                    <th>Cidade</th>
+                    <th>País</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var property in Model.Properties)
+                {
+                    <tr>
+                        <td>@property.Name</td>
+                        <td>@property.PricePerNight.ToString("C")</td>
+                        <td>@property.City?.Name</td>
+                        <td>@property.City?.Country?.CountryName</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</section>

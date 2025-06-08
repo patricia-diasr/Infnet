@@ -1,0 +1,23 @@
+﻿@page
+@model CityBreaks.Web.Pages.CitiesModel
+
+<section class="cities-page">
+    <h1 class="page-title">Cidades</h1>
+
+    @if (Model.Cities == null || Model.Cities.Count == 0)
+    {
+        <p class="empty-message">Nenhuma cidade encontrada.</p>
+    }
+    else
+    {
+        <ul class="city-list">
+            @foreach (var city in Model.Cities)
+            {
+                <li class="city-item">
+                    <a class="city-link" asp-page="/CityDetails" asp-route-name="@city.Name">@city.Name</a> —
+                    <span class="city-country">@city.Country.CountryName</span>
+                </li>
+            }
+        </ul>
+    }
+</section>

@@ -1,0 +1,69 @@
+﻿@page
+@model SistemaTurismo.Pages.CreatePacoteTuristicoModel
+
+@{
+    ViewData["Title"] = "Adicionar Pacote Turistico";
+}
+
+<h1>Adicionar</h1>
+
+<h4>Pacote Turistico</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="PacoteTuristico.Titulo" class="control-label"></label>
+                <input asp-for="PacoteTuristico.Titulo" class="form-control" />
+                <span asp-validation-for="PacoteTuristico.Titulo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="PacoteTuristico.DataInicio" class="control-label">Data Início</label>
+                <input asp-for="PacoteTuristico.DataInicio" class="form-control" type="date" />
+                <span asp-validation-for="PacoteTuristico.DataInicio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PacoteTuristico.CapacidadeMaxima" class="control-label">Capacidade Máxima</label>
+                <input asp-for="PacoteTuristico.CapacidadeMaxima" class="form-control" />
+                <span asp-validation-for="PacoteTuristico.CapacidadeMaxima" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="PacoteTuristico.Preco" class="control-label">Preço</label>
+                <input asp-for="PacoteTuristico.Preco" class="form-control" />
+                <span asp-validation-for="PacoteTuristico.Preco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Destinos disponíveis</label>
+                <div>
+                    @foreach (var destino in Model.TodosOsDestinos)
+                    {
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox"
+                                   name="DestinosSelecionados"
+                                   value="@destino.Value"
+                                   id="destino_@destino.Value" />
+                            <label class="form-check-label" for="destino_@destino.Value">
+                                @destino.Text
+                            </label>
+                        </div>
+                    }
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Adicionar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="IndexPacoteTuristico">Voltar a listagem</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

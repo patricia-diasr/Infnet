@@ -1,0 +1,37 @@
+﻿@page
+@model SistemaTurismo.Pages.DetailsReservaModel
+
+@{
+    ViewData["Title"] = "Detalhes da Reserva";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Reserva</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Reserva.Cliente)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Reserva.Cliente.Email)
+        </dd>
+        <dt class="col-sm-2">
+            Pacote Turístico
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Reserva.PacoteTuristico.Titulo)
+        </dd>
+        <dt class="col-sm-2">
+            Data da Reserva
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Reserva.DataReserva)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./EditReserva" asp-route-id="@Model.Reserva.Id">Editar</a> |
+    <a asp-page="IndexReserva">Voltar a listagem</a>
+</div>

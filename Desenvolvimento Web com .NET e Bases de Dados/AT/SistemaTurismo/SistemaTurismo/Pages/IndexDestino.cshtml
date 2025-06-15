@@ -1,0 +1,47 @@
+﻿@page
+@model SistemaTurismo.Pages.IndexDestinoModel
+
+@{
+    ViewData["Title"] = "Destinos";
+}
+
+<h1>Destinos</h1>
+
+<p>
+    <a asp-page="CreateDestino">Adicionar Destino</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Destino[0].Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Destino[0].Pais)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Destino[0].DeletedAt)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Destino) {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Pais)
+                    </td>
+
+                    @* 7 - Detalhamento via Roteamento na URL *@
+                    <td>
+                        <a asp-page="./EditDestino" asp-route-id="@item.Id">Editar</a> |
+                        <a asp-page="./DetailsDestino" asp-route-id="@item.Id">Detalhes</a> |
+                        <a asp-page="./DeleteDestino" asp-route-id="@item.Id">Deletar</a>
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>

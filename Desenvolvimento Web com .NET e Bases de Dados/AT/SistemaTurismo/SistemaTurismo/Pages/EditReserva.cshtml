@@ -1,0 +1,45 @@
+﻿@page
+@model SistemaTurismo.Pages.EditReservaModel
+
+@{
+    ViewData["Title"] = "Editar Reserva";
+}
+
+<h1>Editar</h1>
+
+<h4>Reserva</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Reserva.Id" />
+            <div class="form-group">
+                <label asp-for="Reserva.ClienteId" class="control-label">Cliente</label>
+                <select asp-for="Reserva.ClienteId" class="form-control" asp-items="ViewBag.ClienteId"></select>
+                <span asp-validation-for="Reserva.ClienteId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Reserva.PacoteTuristicoId" class="control-label">Pacote Turístico</label>
+                <select asp-for="Reserva.PacoteTuristicoId" class="form-control" asp-items="ViewBag.PacoteTuristicoId"></select>
+                <span asp-validation-for="Reserva.PacoteTuristicoId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Reserva.DataReserva" class="control-label">Data da Reserva</label>
+                <input asp-for="Reserva.DataReserva" class="form-control" />
+                <span asp-validation-for="Reserva.DataReserva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="IndexReserva">Voltar a listagem</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

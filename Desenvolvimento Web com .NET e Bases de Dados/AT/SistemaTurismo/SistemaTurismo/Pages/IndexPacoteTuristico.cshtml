@@ -1,0 +1,56 @@
+﻿@page
+@model SistemaTurismo.Pages.IndexPacoteTuristicoModel
+
+@{
+    ViewData["Title"] = "Pacotes Turisticos";
+    // 11 - Operações CRUD com Scaffolding e Personalização
+}
+
+<h1>Pacotes Turisticos</h1>
+
+<p>
+    <a asp-page="CreatePacoteTuristico">Adicionar Pacote Turistico</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Data Início</th>
+            <th>Capacidade Máxima</th>
+            <th>Preço</th>
+            <th>Destinos</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.PacoteTuristico)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Titulo)</td>
+                <td>@Html.DisplayFor(modelItem => item.DataInicio)</td>
+                <td>@Html.DisplayFor(modelItem => item.CapacidadeMaxima)</td>
+                <td>@Html.DisplayFor(modelItem => item.Preco)</td>
+                <td>
+                    @if (item.Destinos.Any())
+                    {
+                        <ul class="mb-0">
+                            @foreach (var destino in item.Destinos)
+                            {
+                                <li>@destino.Destino.Nome (@destino.Destino.Pais)</li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <em>Sem destinos</em>
+                    }
+                </td>
+                <td>
+                    <a asp-page="./EditPacoteTuristico" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-page="./DetailsPacoteTuristico" asp-route-id="@item.Id">Detalhes</a> |
+                    <a asp-page="./DeletePacoteTuristico" asp-route-id="@item.Id">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

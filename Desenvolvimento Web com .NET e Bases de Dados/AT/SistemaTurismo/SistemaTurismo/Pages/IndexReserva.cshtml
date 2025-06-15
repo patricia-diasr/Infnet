@@ -1,0 +1,48 @@
+﻿@page
+@model SistemaTurismo.Pages.IndexReservaModel
+
+@{
+    ViewData["Title"] = "Reserva";
+}
+
+<h1>Reserva</h1>
+
+<p>
+    <a asp-page="CreateReserva">Adicionar Reserva</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Cliente
+            </th>
+            <th>
+                Pacote Turístico
+            </th>
+            <th>
+                Data da Reserva
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Reserva) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cliente.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PacoteTuristico.Titulo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataReserva)
+                </td>
+                <td>
+                    <a asp-page="./EditReserva" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-page="./DetailsReserva" asp-route-id="@item.Id">Detalhes</a> |
+                    <a asp-page="./DeleteReserva" asp-route-id="@item.Id">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

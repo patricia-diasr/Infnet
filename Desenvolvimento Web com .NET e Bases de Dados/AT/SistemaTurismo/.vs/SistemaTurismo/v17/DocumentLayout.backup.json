@@ -1,0 +1,1001 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\deletepacoteturistico.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\deletepacoteturistico.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\deletepacoteturistico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\deletepacoteturistico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\indexpacoteturistico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\indexpacoteturistico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\data\\sistematurismocontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\data\\sistematurismocontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\viewnotes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\viewnotes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\indexdestino.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\indexdestino.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\detailsdestino.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\detailsdestino.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\models\\destino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\models\\destino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\createdestino.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\createdestino.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\models\\pacoteturistico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\models\\pacoteturistico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\createreserva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\createreserva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\createreserva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\createreserva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\viewnotes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\viewnotes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\editpacoteturistico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\editpacoteturistico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\createpacoteturistico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\createpacoteturistico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\createcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\createcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\deletereserva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\deletereserva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\detailspacoteturistico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\detailspacoteturistico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\editpacoteturistico.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\editpacoteturistico.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\detailscliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\detailscliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\sistematurismo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\sistematurismo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\createcliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\createcliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\createdestino.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\createdestino.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\createpacoteturistico.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\createpacoteturistico.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\deletecliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\deletecliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\deletedestino.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\deletedestino.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\deletereserva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\deletereserva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\detailscliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\detailscliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\detailsdestino.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\detailsdestino.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\detailspacoteturistico.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\detailspacoteturistico.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\detailsreserva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\detailsreserva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\editcliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\editcliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\editcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\editcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\editdestino.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\editdestino.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\editreserva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\editreserva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\editreserva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\editreserva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\indexcliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\indexcliente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\indexdestino.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\indexdestino.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\indexpacoteturistico.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\indexpacoteturistico.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\indexreserva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\indexreserva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\indexreserva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\indexreserva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\models\\pacoteturisticodestino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\models\\pacoteturisticodestino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\indexcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\indexcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\detailsreserva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\detailsreserva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\editdestino.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\editdestino.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\deletecliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\deletecliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\pages\\deletedestino.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\pages\\deletedestino.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|c:\\users\\patid\\source\\repos\\sistematurismo\\sistematurismo\\migrations\\20250615140038_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083EB75B-86E2-4C4B-91E6-C4058CED488C}|SistemaTurismo\\SistemaTurismo.csproj|solutionrelative:sistematurismo\\migrations\\20250615140038_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SistemaTurismoContext .cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Data\\SistemaTurismoContext .cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Data\\SistemaTurismoContext .cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Data\\SistemaTurismoContext .cs",
+              "RelativeToolTip": "SistemaTurismo\\Data\\SistemaTurismoContext .cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:25:36.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexPacoteTuristico.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexPacoteTuristico.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\IndexPacoteTuristico.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexPacoteTuristico.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\IndexPacoteTuristico.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T15:03:45.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeletePacoteTuristico.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeletePacoteTuristico.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DeletePacoteTuristico.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeletePacoteTuristico.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DeletePacoteTuristico.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T15:03:45.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeletePacoteTuristico.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeletePacoteTuristico.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DeletePacoteTuristico.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeletePacoteTuristico.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DeletePacoteTuristico.cshtml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:03:45.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Program.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Program.cs",
+              "RelativeToolTip": "SistemaTurismo\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:27:46.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Login.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T17:51:54.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewNotes.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\ViewNotes.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\ViewNotes.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\ViewNotes.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\ViewNotes.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:44:41.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndexDestino.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexDestino.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\IndexDestino.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexDestino.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\IndexDestino.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:42:00.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetailsDestino.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsDestino.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DetailsDestino.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsDestino.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DetailsDestino.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:42:00.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Destino.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Models\\Destino.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Models\\Destino.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Models\\Destino.cs",
+              "RelativeToolTip": "SistemaTurismo\\Models\\Destino.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:16:23.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateDestino.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreateDestino.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\CreateDestino.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreateDestino.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\CreateDestino.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:41:59.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PacoteTuristico.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Models\\PacoteTuristico.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Models\\PacoteTuristico.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Models\\PacoteTuristico.cs",
+              "RelativeToolTip": "SistemaTurismo\\Models\\PacoteTuristico.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:17:26.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Models\\Reserva.cs",
+              "RelativeToolTip": "SistemaTurismo\\Models\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:18:14.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateReserva.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreateReserva.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\CreateReserva.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreateReserva.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\CreateReserva.cshtml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAswGUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:02:22.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateReserva.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreateReserva.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\CreateReserva.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreateReserva.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\CreateReserva.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T16:02:22.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreatePacoteTuristico.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreatePacoteTuristico.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\CreatePacoteTuristico.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreatePacoteTuristico.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\CreatePacoteTuristico.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T15:03:44.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreateCliente.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\CreateCliente.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreateCliente.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\CreateCliente.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:11:26.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:52:21.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewNotes.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\ViewNotes.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\ViewNotes.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\ViewNotes.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\ViewNotes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T18:44:07.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:55:14.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T16:54:58.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditPacoteTuristico.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditPacoteTuristico.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\EditPacoteTuristico.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditPacoteTuristico.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\EditPacoteTuristico.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T15:03:44.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DetailsPacoteTuristico.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsPacoteTuristico.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DetailsPacoteTuristico.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsPacoteTuristico.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DetailsPacoteTuristico.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T15:03:44.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SistemaTurismo\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SistemaTurismo\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-15T18:53:56.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T18:52:26.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteReserva.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeleteReserva.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DeleteReserva.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeleteReserva.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DeleteReserva.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T16:02:23.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DetailsCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsCliente.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DetailsCliente.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsCliente.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DetailsCliente.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:11:26.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditPacoteTuristico.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditPacoteTuristico.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\EditPacoteTuristico.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditPacoteTuristico.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\EditPacoteTuristico.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:03:44.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SistemaTurismo.csproj",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\SistemaTurismo.csproj",
+              "RelativeDocumentMoniker": "SistemaTurismo\\SistemaTurismo.csproj",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\SistemaTurismo.csproj",
+              "RelativeToolTip": "SistemaTurismo\\SistemaTurismo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T18:10:06.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeleteDestino.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeleteDestino.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DeleteDestino.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeleteDestino.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DeleteDestino.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:42:00.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateCliente.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreateCliente.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\CreateCliente.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreateCliente.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\CreateCliente.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:11:26.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateDestino.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreateDestino.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\CreateDestino.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreateDestino.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\CreateDestino.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:41:59.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreatePacoteTuristico.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreatePacoteTuristico.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\CreatePacoteTuristico.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\CreatePacoteTuristico.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\CreatePacoteTuristico.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:03:44.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DeleteCliente.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeleteCliente.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DeleteCliente.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeleteCliente.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DeleteCliente.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:11:26.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DeleteReserva.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeleteReserva.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DeleteReserva.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeleteReserva.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DeleteReserva.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:02:23.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DetailsCliente.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsCliente.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DetailsCliente.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsCliente.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DetailsCliente.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:11:26.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DetailsDestino.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsDestino.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DetailsDestino.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsDestino.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DetailsDestino.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:42:00.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DetailsPacoteTuristico.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsPacoteTuristico.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DetailsPacoteTuristico.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsPacoteTuristico.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DetailsPacoteTuristico.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:03:45.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DetailsReserva.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsReserva.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DetailsReserva.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsReserva.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DetailsReserva.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:02:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EditCliente.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditCliente.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\EditCliente.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditCliente.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\EditCliente.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:11:26.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EditCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditCliente.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\EditCliente.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditCliente.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\EditCliente.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:11:26.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EditDestino.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditDestino.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\EditDestino.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditDestino.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\EditDestino.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:42:00.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditReserva.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditReserva.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\EditReserva.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditReserva.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\EditReserva.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:02:23.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EditReserva.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditReserva.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\EditReserva.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditReserva.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\EditReserva.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T16:02:22.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IndexCliente.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexCliente.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\IndexCliente.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexCliente.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\IndexCliente.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:48:34.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IndexDestino.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexDestino.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\IndexDestino.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexDestino.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\IndexDestino.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:42:00.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IndexPacoteTuristico.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexPacoteTuristico.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\IndexPacoteTuristico.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexPacoteTuristico.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\IndexPacoteTuristico.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:03:45.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IndexReserva.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexReserva.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\IndexReserva.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexReserva.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\IndexReserva.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:02:24.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IndexReserva.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexReserva.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\IndexReserva.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexReserva.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\IndexReserva.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T16:02:24.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PacoteTuristicoDestino.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Models\\PacoteTuristicoDestino.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Models\\PacoteTuristicoDestino.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Models\\PacoteTuristicoDestino.cs",
+              "RelativeToolTip": "SistemaTurismo\\Models\\PacoteTuristicoDestino.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:44:10.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Models\\Cliente.cs",
+              "RelativeToolTip": "SistemaTurismo\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:15:44.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IndexCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexCliente.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\IndexCliente.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\IndexCliente.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\IndexCliente.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T22:48:34.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DetailsReserva.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsReserva.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DetailsReserva.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DetailsReserva.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DetailsReserva.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T16:02:23.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Error.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T15:02:58.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EditDestino.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditDestino.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\EditDestino.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\EditDestino.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\EditDestino.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:42:00.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:54:34.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DeleteCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeleteCliente.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DeleteCliente.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeleteCliente.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DeleteCliente.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:11:26.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DeleteDestino.cshtml",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeleteDestino.cshtml",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Pages\\DeleteDestino.cshtml",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Pages\\DeleteDestino.cshtml",
+              "RelativeToolTip": "SistemaTurismo\\Pages\\DeleteDestino.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:42:00.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20250615140038_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Migrations\\20250615140038_Inicial.cs",
+              "RelativeDocumentMoniker": "SistemaTurismo\\Migrations\\20250615140038_Inicial.cs",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\Migrations\\20250615140038_Inicial.cs",
+              "RelativeToolTip": "SistemaTurismo\\Migrations\\20250615140038_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:00:39.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaTurismo\\appsettings.json",
+              "ToolTip": "C:\\Users\\patid\\source\\repos\\SistemaTurismo\\SistemaTurismo\\appsettings.json",
+              "RelativeToolTip": "SistemaTurismo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T22:28:45.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

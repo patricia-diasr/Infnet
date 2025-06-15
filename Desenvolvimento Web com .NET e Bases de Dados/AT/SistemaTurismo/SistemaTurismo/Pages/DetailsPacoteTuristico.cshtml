@@ -1,0 +1,43 @@
+﻿@page
+@model SistemaTurismo.Pages.DetailsPacoteTuristicoModel
+
+@{
+    ViewData["Title"] = "Detalhes do Pacote Turistico";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Pacote Turistico</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Título
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PacoteTuristico.Titulo)
+        </dd>
+        <dt class="col-sm-2">
+            Data Início
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PacoteTuristico.DataInicio)
+        </dd>
+        <dt class="col-sm-2">
+            Capacidade Máxima
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PacoteTuristico.CapacidadeMaxima)
+        </dd>
+        <dt class="col-sm-2">
+            Preço
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PacoteTuristico.Preco)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./EditPacoteTuristico" asp-route-id="@Model.PacoteTuristico.Id">Editar</a> |
+    <a asp-page="IndexPacoteTuristico">Voltar a listagem</a>
+</div>

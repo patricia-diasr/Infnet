@@ -64,7 +64,7 @@ def inverter_string(texto):
     return texto_invertido
     
 textos= [
-    "Algoritmos"
+    "Algoritmos",
     "Stack",
     "Python",
     "Velocidade e Qualidade com Estruturas de Dados e Algoritmos",

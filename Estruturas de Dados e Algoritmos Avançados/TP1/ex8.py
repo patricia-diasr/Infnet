@@ -252,8 +252,7 @@ def is_valid_heap(array: List[int]) -> bool:
         array (List[int]): Array a ser validado
 
     Returns:
-        bool: True se o array representar uma heap máxima válida,
-              False caso contrário
+        bool: True se o array representar uma heap máxima válida, False caso contrário
     """
 
     n = len(array)

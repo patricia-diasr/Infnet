@@ -26,7 +26,7 @@ class BinaryHeap:
             int: Índice do nó pai
         """
 
-        return (i - 1) // 2
+        return (i - 1) // 20
 
 
     def indice_filho_esquerdo(self, i: int) -> int:

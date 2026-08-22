@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}Lista de eventos{% endblock %}
+{% block content %}
+
+<h2>Eventos cadastrados</h2>
+
+<table border="1">
+
+    <tr><th>Nome</th><th>Data</th><th>Organizador</th></tr>
+    {% for evento in eventos %}
+
+    <tr><td>{{ evento.nome }}</td><td>{{ evento.data }}</td><td>{{ evento.organizador_nome }}</td></tr>
+    {% endfor %}
+
+</table>
+
+{% endblock %}

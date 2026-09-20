@@ -4,7 +4,7 @@ from scapy.all import sniff, TCP, Raw, Packet
 
 INTERFACE = "enp0s3"
 PORTA_SERVIDOR = 8080
-TEMPO_CAPTURA = 600
+TEMPO_CAPTURA = 180
 ARQUIVO_LOG = "acessos.log"
 LIMITE_OCORRENCIAS = 3
 

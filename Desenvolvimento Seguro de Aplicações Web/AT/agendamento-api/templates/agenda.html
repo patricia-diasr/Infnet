@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}Agenda do dia{% endblock %}
+{% block content %}
+
+<h2>Agenda de hoje ({{ data_hoje }})</h2>
+{% if consultas %}
+
+<table border="1">
+    <tr><th>Horário</th><th>Paciente</th><th>Profissional</th><th>Especialidade</th><th>Status</th></tr>
+
+    {% for consulta in consultas %}
+
+    <tr>
+        <td>{{ consulta.hora }}</td>
+        <td>{{ consulta.paciente_nome }}</td>
+        <td>{{ consulta.profissional_nome }}</td>
+        <td>{{ consulta.especialidade }}</td>
+        <td>{{ consulta.status }}</td>
+    </tr>
+
+    {% endfor %}
+</table>
+
+{% else %}
+<p>Nenhuma consulta agendada para hoje.</p>
+{% endif %}
+{% endblock %}

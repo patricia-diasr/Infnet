@@ -1,0 +1,454 @@
+{
+  "errors": [],
+  "generated_at": "2026-09-19T21:16:30Z",
+  "metrics": {
+    ".\\main.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 69,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "_totals": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 8,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 8,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 483,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\__init__.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 0,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\config.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 13,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\database\\__init__.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 0,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\database\\clients_db.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 19,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\database\\db.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 36,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\database\\seed.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 5,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 5,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 16,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\database\\session.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 9,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\database\\users_db.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 14,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\models\\__init__.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 0,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\models\\cliente_api.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 7,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\models\\consulta.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 33,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\models\\usuario.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 17,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\rate_limit.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 3,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\routes\\__init__.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 0,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\routes\\auth.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 3,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 3,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 50,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\routes\\consultas.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 66,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\routes\\usuarios.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 15,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\security\\auth.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 82,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\security\\hashing.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 6,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "app\\security\\ownership.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 28,
+      "nosec": 0,
+      "skipped_tests": 0
+    }
+  },
+  "results": [
+    {
+      "code": "10         if users_db.obter_usuario(session, \"recepcao1\") is None:\n11             users_db.criar_usuario(session, UsuarioCreate(username = \"recepcao1\", email = \"recepcao1@clinica.com\", password = \"senha123\", role = \"recepcionista\"))\n12 \n",
+      "col_offset": 44,
+      "end_col_offset": 161,
+      "filename": "app\\database\\seed.py",
+      "issue_confidence": "MEDIUM",
+      "issue_cwe": {
+        "id": 259,
+        "link": "https://cwe.mitre.org/data/definitions/259.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Possible hardcoded password: 'senha123'",
+      "line_number": 11,
+      "line_range": [
+        11
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b106_hardcoded_password_funcarg.html",
+      "test_id": "B106",
+      "test_name": "hardcoded_password_funcarg"
+    },
+    {
+      "code": "13         if users_db.obter_usuario(session, \"dra.pereira\") is None:\n14             users_db.criar_usuario(session, UsuarioCreate(username = \"dra.pereira\", email = \"dra.pereira@clinica.com\", password = \"senha456\", role = \"profissional\"))\n15 \n",
+      "col_offset": 44,
+      "end_col_offset": 164,
+      "filename": "app\\database\\seed.py",
+      "issue_confidence": "MEDIUM",
+      "issue_cwe": {
+        "id": 259,
+        "link": "https://cwe.mitre.org/data/definitions/259.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Possible hardcoded password: 'senha456'",
+      "line_number": 14,
+      "line_range": [
+        14
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b106_hardcoded_password_funcarg.html",
+      "test_id": "B106",
+      "test_name": "hardcoded_password_funcarg"
+    },
+    {
+      "code": "16         if users_db.obter_usuario(session, \"dr.lima\") is None:\n17             users_db.criar_usuario(session, UsuarioCreate(username = \"dr.lima\", email = \"dr.lima@clinica.com\", password = \"senha789\", role = \"profissional\"))\n18 \n",
+      "col_offset": 44,
+      "end_col_offset": 156,
+      "filename": "app\\database\\seed.py",
+      "issue_confidence": "MEDIUM",
+      "issue_cwe": {
+        "id": 259,
+        "link": "https://cwe.mitre.org/data/definitions/259.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Possible hardcoded password: 'senha789'",
+      "line_number": 17,
+      "line_range": [
+        17
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b106_hardcoded_password_funcarg.html",
+      "test_id": "B106",
+      "test_name": "hardcoded_password_funcarg"
+    },
+    {
+      "code": "19         if users_db.obter_usuario(session, \"admin\") is None:\n20             users_db.criar_usuario(session, UsuarioCreate(username = \"admin\", email = \"admin@clinica.com\", password = \"admin123\", role = \"administrador\"))\n21 \n",
+      "col_offset": 44,
+      "end_col_offset": 153,
+      "filename": "app\\database\\seed.py",
+      "issue_confidence": "MEDIUM",
+      "issue_cwe": {
+        "id": 259,
+        "link": "https://cwe.mitre.org/data/definitions/259.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Possible hardcoded password: 'admin123'",
+      "line_number": 20,
+      "line_range": [
+        20
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b106_hardcoded_password_funcarg.html",
+      "test_id": "B106",
+      "test_name": "hardcoded_password_funcarg"
+    },
+    {
+      "code": "22         if clients_db.obter_client(session, \"laboratorio-parceiro\") is None:\n23             clients_db.registrar_client(session, client_id = \"laboratorio-parceiro\", client_secret = \"segredo-laboratorio-123\", scopes = [\"horarios:leitura\"])\n",
+      "col_offset": 12,
+      "end_col_offset": 158,
+      "filename": "app\\database\\seed.py",
+      "issue_confidence": "MEDIUM",
+      "issue_cwe": {
+        "id": 259,
+        "link": "https://cwe.mitre.org/data/definitions/259.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Possible hardcoded password: 'segredo-laboratorio-123'",
+      "line_number": 23,
+      "line_range": [
+        23
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b106_hardcoded_password_funcarg.html",
+      "test_id": "B106",
+      "test_name": "hardcoded_password_funcarg"
+    },
+    {
+      "code": "33     token = auth.criar_token_acesso_usuario(usuario)\n34     return {\"access_token\": token, \"token_type\": \"bearer\"}\n35 \n",
+      "col_offset": 35,
+      "end_col_offset": 47,
+      "filename": "app\\routes\\auth.py",
+      "issue_confidence": "MEDIUM",
+      "issue_cwe": {
+        "id": 259,
+        "link": "https://cwe.mitre.org/data/definitions/259.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Possible hardcoded password: 'bearer'",
+      "line_number": 34,
+      "line_range": [
+        34
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b105_hardcoded_password_string.html",
+      "test_id": "B105",
+      "test_name": "hardcoded_password_string"
+    },
+    {
+      "code": "44     token = auth.criar_token_acesso_usuario(usuario)\n45     return {\"access_token\": token, \"token_type\": \"bearer\"}\n46 \n",
+      "col_offset": 35,
+      "end_col_offset": 47,
+      "filename": "app\\routes\\auth.py",
+      "issue_confidence": "MEDIUM",
+      "issue_cwe": {
+        "id": 259,
+        "link": "https://cwe.mitre.org/data/definitions/259.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Possible hardcoded password: 'bearer'",
+      "line_number": 45,
+      "line_range": [
+        45
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b105_hardcoded_password_string.html",
+      "test_id": "B105",
+      "test_name": "hardcoded_password_string"
+    },
+    {
+      "code": "68     token = auth.criar_jwt({\"sub\": client_id, \"tipo\": \"client\", \"scopes\": escopos_concedidos}, timedelta(minutes = settings.ACCESS_TOKEN_EXPIRE_MINUTES))\n69     return {\"access_token\": token, \"token_type\": \"bearer\"}\n",
+      "col_offset": 35,
+      "end_col_offset": 47,
+      "filename": "app\\routes\\auth.py",
+      "issue_confidence": "MEDIUM",
+      "issue_cwe": {
+        "id": 259,
+        "link": "https://cwe.mitre.org/data/definitions/259.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Possible hardcoded password: 'bearer'",
+      "line_number": 69,
+      "line_range": [
+        69
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b105_hardcoded_password_string.html",
+      "test_id": "B105",
+      "test_name": "hardcoded_password_string"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}{{ evento.nome }} - eventos-api{% endblock %}
+{% block content %}
+
+<h2>{{ evento.nome }}</h2>
+
+<p><strong>Data:</strong> {{ evento.data }}</p>
+<p><strong>Organizador:</strong> {{ evento.organizador_nome }} ({{ evento.organizador_email }})</p>
+<p><strong>Capacidade:</strong> {{ evento.capacidade }} participantes</p>
+
+<h3>Comentários</h3>
+<ul>
+{% for comentario in comentarios %}
+    <li><strong>{{ comentario.autor_username }}:</strong> {{ comentario.texto }}</li>
+    {% endfor %}
+</ul>
+
+{% endblock %}

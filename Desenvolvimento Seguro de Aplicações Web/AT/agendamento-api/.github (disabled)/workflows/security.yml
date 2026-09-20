@@ -1,0 +1,49 @@
+name: Security Pipeline
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  analise-estatica-e-dependencias:
+    name: SAST + SCA (fase Code)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar dependências do projeto
+        run: pip install -r requirements.txt
+      - name: Instalar ferramentas de análise
+        run: pip install bandit pip-audit
+      - name: SAST com Bandit
+        run: bandit -r app main.py -f json -o reports/bandit-report.json || true
+      - name: SCA com pip-audit
+        run: pip-audit -r requirements.txt -f json -o reports/pip-audit-report.json || true
+      - name: Security gate
+        run: python scripts/security_gate.py reports/bandit-report.json reports/pip-audit-report.json
+      - name: Publicar relatórios como artefato
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: relatorios-seguranca
+          path: |
+            reports/bandit-report.json
+            reports/pip-audit-report.json
+
+  testes-automatizados:
+    name: Testes automatizados (fase Test)
+    runs-on: ubuntu-latest
+    needs: analise-estatica-e-dependencias
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+      - name: Rodar pytest
+        run: pytest tests/ -v

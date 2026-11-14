@@ -1,0 +1,4 @@
+.env
+.venv/
+__pycache__/
+assinantes_neostream.csv
